@@ -7,6 +7,9 @@
 ## Walkthrough video
 [Screencastify Link](https://drive.google.com/file/d/1eLYJvKmpGOjXNOfSwVls3OH-U57_jHip/view)
 
+## Sample README
+Located in ./utils/readme.md
+
 ## Installation
   Node.js and npm 
 
