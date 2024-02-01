@@ -138,10 +138,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {console.log(`
-=================
-Welcome to the ReadMe Generator! 
-Answer the following question prompts to feed information to the generator.
-=================
+Answer the following questions to generate your README.md file
 `);
 
 inquirer.prompt(questions)
